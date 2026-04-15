@@ -1,1 +1,5 @@
-# MaRS_Task_2
+Thought process
+
+  It was really a great experience to solve the question - give the inputs W,A,S,D and make the wheels to move forward , left , reverse , right .at first the question seemed to be easy but tricky .First I thought of learning how to code for a motor then refereed the relavent documents in the internet .Then , I tried to approach the question with 2 motors and aurdino alone  .As i expected it was tricky when coming to the reverse part , i didn't know , how to make the wheels to rotate in reverse, but it wasnt supporting and I experienced some power issues.So , next I thought to use a motor driver ,I thought it may little complex and but it was easy to understand , the learnt the about the ports of the motor driver L293D . then I gave appropriate connections to it 1,2,3,4 pins , the simulation started to work as per the requirement . then coming to hardware , there was another motor driver 298N was available , so I started to read the datasheet for and related it with 293D and started to connect the jumper wire , and finally connected it with the power source and made the prototype to run .
+  
+  
